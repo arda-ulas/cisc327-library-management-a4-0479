@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+env/
+ENV/
+venv.bak/
+env.bak/
+
+# Python cache / build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Coverage artifacts
+.coverage
+coverage.xml
+htmlcov/
+
+# SQLite databases
+*.db
+
+# OS
+.DS_Store
+.idea/
+.vscode/
